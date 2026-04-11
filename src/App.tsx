@@ -858,7 +858,7 @@ export default function App() {
               <h2 className="text-3xl md:text-5xl font-bold mb-8 leading-tight text-profilm-dark">
                 Hľadáte kvalitný produkt, technickú podporu a systém, ktorý vám uľahčí prácu? Chcete rásť a ponúkať klientom profesionálne riešenie s garanciou?
               </h2>
-              <p className="text-2xl text-gray-600 mb-12 leading-relaxed max-w-3xl mx-auto">
+              <p className="text-xl text-gray-600 mb-12 leading-relaxed max-w-3xl mx-auto">
                 Vyplňte krátky dotazník a my sa Vám do 24h hodín ozveme s následnou ponukou.
               </p>
               <button 
